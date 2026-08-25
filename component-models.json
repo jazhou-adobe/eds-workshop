@@ -235,7 +235,7 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "alt",
+        "name": "imageAlt",
         "label": "Alt",
         "value": ""
       }
